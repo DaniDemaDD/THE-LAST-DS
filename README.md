@@ -1,30 +1,30 @@
 # danidema
 
-**Copyright (C) [2025] [DaniDema] - Tutti i diritti riservati.**
+Copyright (C) [2025] [DaniDema] - All rights reserved.
 
-Questo file è di proprietà esclusiva di DaniDema e contiene informazioni riservate.
+This file is the sole property of DaniDema and contains confidential information.
 
-**ATTENZIONE:**
+WARNING:
 
-*   Questo file NON è pericoloso se utilizzato correttamente.
-*   Tuttavia, si sconsiglia vivamente la condivisione indiscriminata di questo file. La sua diffusione incontrollata potrebbe comprometterne l'efficacia e la sicurezza.
+This file is NOT dangerous if used correctly.
+However, we strongly advise against sharing this file indiscriminately. Its uncontrolled distribution could compromise its effectiveness and safety.
 
-**Contenuto:**
+Contents:
 
-Questo file contiene una versione modificata di d1sc0rd (diciamo, "d1sc0rd m0dd@to"). Questa mod include numerose funzionalità nascoste che, se scoperte e utilizzate correttamente, possono rivelarsi estremamente potenti.
+This file contains a modified version of d1sc0rd (say, "d1sc0rd m0dd@to"). This mod includes many hidden features that, if discovered and used correctly, can be extremely powerful.
 
-**Esempio di funzionalità avanzata:**
+Example of advanced functionality:
 
-*   Possibilità di "sbannarsi" da server d1sc0rd (utilizzo a proprio rischio e pericolo).
+Ability to "unban" yourself from d1sc0rd servers (use at your own risk).
 
-**Installazione:**
+Installation:
 
-L'installazione è simile a quella di Vencord, ma è importante sottolineare che questa NON è Vencord. Seguire attentamente le istruzioni fornite a parte per l'installazione e l'utilizzo corretto.
+Installation is similar to Vencord, but it is important to note that this is NOT Vencord. Carefully follow the instructions provided separately for proper installation and use.
 
-**Disclaimer:**
+Disclaimer:
 
-L'utilizzo di questa mod è a rischio e pericolo dell'utente. L'autore non si assume alcuna responsabilità per eventuali conseguenze derivanti dall'utilizzo improprio di questo software. L'utente è responsabile del rispetto dei termini di servizio di d1sc0rd e delle normative vigenti.
+Use of this mod is at your own risk. The author assumes no responsibility for any consequences resulting from improper use of this software. You are responsible for complying with d1sc0rd's terms of service and applicable laws.
 
 Do not run the installer as an Administrator!
 
-If you get a warning that the app cannot be opened, click "Run Anyways". You may need to click "more info" to see this option. 
+If you get a warning that the app cannot be opened, click "Run Anyways". You may need to click "more info" to see this option.
